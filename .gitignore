@@ -1,0 +1,14 @@
+# Entorno y caches
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
+# SO
+.DS_Store
+Thumbs.db
