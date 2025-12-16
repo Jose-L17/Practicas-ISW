@@ -1,0 +1,31 @@
+
+name: drug-discovery
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pyarrow
+  - ipykernel
+  - jupyterlab
+  - notebook   
+  - seaborn
+  - rdkit
+  - openbabel
+  - biopython
+  - pdbfixer
+  - openmm
+  - mdtraj
+  - autodock-vina
+  - meeko
+  - tqdm
+  - requests
+  - joblib
+  - loguru
+  - pip
+  - pip:
+      - py3Dmol
